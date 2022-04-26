@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MY05A6ObnNzG2+oZ5V/Driy21g8wp8R+cZMKLsugcBBc+kFs0kCKziwmlzSrDBTYK3f24JDw1TSi+uMr8MhcHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\oguzh\\source\\repos\\UsersManagement\\UsersManagement.API\\UsersManagement.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oguzh\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
